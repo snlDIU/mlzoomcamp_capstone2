@@ -71,7 +71,7 @@ I have experimented with Heroku and Render deployment to learn. Here are both de
 
 ![Deployment Screenshot](https://github.com/snlDIU/mlzoomcamp_capstone2/blob/main/DeploymentScreenshot.png)
 
-#### **How to Run the Application**
+## **How to Run the Application**
 
 **Setting Up the Environment**
 
@@ -96,7 +96,7 @@ Visit [http://localhost:5000](http://localhost:5000) in your web browser to inte
 
 Feel free to explore the Jupyter notebooks for an understanding of the project's data exploration and model selection processes.
 
-#### **Conclusion**
+## **Conclusion**
 
 As a newcomer to machine learning, I acknowledge that this project is a starting point. I understand that there is more to explore and learn in the field of ML. I look forward to updating and expanding on this project in the future.
 
