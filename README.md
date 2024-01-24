@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-Welcome to the Boston House Pricing Prediction project! This repository is a part of the Machine Learning Zoomcamp course Cohort 2023, and it focuses on predicting housing prices in Boston using machine learning.
+Welcome to the Boston House Pricing Prediction project! This repository is a part of the [Machine Learning Zoomcamp course Cohort 2023](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2023) by [Alexey Grigorev](https://github.com/alexeygrigorev), and it focuses on predicting housing prices in Boston using machine learning.
 
 The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices).
 
