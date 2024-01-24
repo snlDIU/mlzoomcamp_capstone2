@@ -2,7 +2,7 @@
 # **Machine Learning Capstone Project**
 ### **Boston House Pricing Prediction Project**
 
-## *Introduction*
+## **Introduction**
 
 Welcome to the Boston House Pricing Prediction project! This repository is a part of the Machine Learning Zoomcamp course Cohort 2023, and it focuses on predicting housing prices in Boston using machine learning.
 
@@ -66,6 +66,8 @@ I have experimented with Heroku and Render deployment to learn. Here are both de
 
 - [Heroku Deployment](https://predicthouseprice-ef7c71e13c16.herokuapp.com/) - [https://predicthouseprice-ef7c71e13c16.herokuapp.com/](https://predicthouseprice-ef7c71e13c16.herokuapp.com/)
 - [Render Deployment](https://predict-house-price-zxbr.onrender.com/) - [https://predict-house-price-zxbr.onrender.com/](https://predict-house-price-zxbr.onrender.com/)
+
+The Render website may take time to load.
 
 ## **Screenshot**
 
