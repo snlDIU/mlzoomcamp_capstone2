@@ -4,15 +4,38 @@
 
 ## **Introduction**
 
-Welcome to the Boston House Pricing Prediction project! This repository is a part of the [Machine Learning Zoomcamp course Cohort 2023](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2023) by [Alexey Grigorev](https://github.com/alexeygrigorev), and it focuses on predicting housing prices in Boston using machine learning.
+This notebook is part of the capstone project for the Machine Learning Zoomcamp course Cohort 2023. [Cohort 2023 GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/cohorts/2023) by [Alexey Grigorev](https://github.com/alexeygrigorev).
 
-The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices).
+**The dataset used for this task is sourced from [Kaggle](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices).**
 
-## **Objective**
+## **Problem Description**
 
-The primary goal of this project is to build a machine learning model capable of predicting housing prices based on various features associated with towns or suburbs in Boston. The project involves data exploration, preprocessing, model building, evaluation, and selection.
+The task at hand involves predicting housing prices in Boston based on various features associated with towns or suburbs. This regression problem aims to create a machine learning model capable of providing accurate predictions for house prices. The dataset used in this project is sourced from Kaggle and contains information about 506 unique Boston towns or suburbs.
 
-## **Exploring Machine Learning Models**
+### Dataset Details
+
+The dataset comprises 506 entries, each representing a unique town or suburb in Boston. It consists of 13 features for each entry, with the target variable being the house price. These features encompass a wide range of aspects such as crime rate, residential land proportions, business acreage, proximity to the Charles River, nitric oxide concentration, average number of rooms, and more.
+
+- **CRIM:** Per capita crime rate.
+- **ZN:** Proportion of residential land zoned for lots over 25,000 sq.ft.
+- **INDUS:** Proportion of non-retail business acres per town.
+- **CHAS:** Charles River dummy variable (1 if tract bounds river; 0 otherwise).
+- **NOX:** Nitric oxides concentration (parts per 10 million).
+- **RM:** Average number of rooms per dwelling.
+- **AGE:** Proportion of owner-occupied units built prior to 1940.
+- **DIS:** Weighted distances to five Boston employment centers.
+- **RAD:** Index of accessibility to radial highways.
+- **TAX:** Full-value property-tax rate per $10,000.
+- **PTRATIO:** Pupil-teacher ratio by town.
+- **B:** \(1000(Bk - 0.63)^2\) where \(Bk\) is the proportion of blacks by town.
+- **LSTAT:** Percentage of the lower status of the population.
+
+### Objective
+
+The primary goal is to build a robust machine learning model that, given the features mentioned above, accurately predicts the price of a house in Boston. The project involves data exploration, preprocessing, model building, evaluation, and selection.
+
+
+### Exploring Machine Learning Models
 
 The project explores various machine learning models for regression tasks. The following models were trained and evaluated:
 
@@ -105,3 +128,8 @@ As a newcomer to machine learning, I acknowledge that this project is a starting
 Thank you for reviewing my work.
 
 *Another Machine Learning Enthusiast*
+
+
+
+### Boston House Pricing Prediction Project
+
