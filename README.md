@@ -70,16 +70,16 @@ To follow along and contribute to this project, you will need the following tool
 
 **Notebooks:**
 
-- **ML_EDA.ipynb:** Jupyter notebook for Exploratory Data Analysis.
+- **ML_EDA.ipynb:** Jupyter notebook for EDA (Exploratory Data Analysis).
 - **ML_Model_selection.ipynb:** Jupyter notebook for model selection and evaluation.
-- **Additional_Models.ipynb:** Jupyter notebook exploring additional machine learning models for predicting math scores.
+
 
 **Model Artifacts:**
 
 - **XGBR.pkl:** Pickle file containing the trained XGBoost regression model.
 - **scaling.pkl:** Pickle file containing the scaling information.
 
-### **Dockerization**
+### Dockerization
 
 Docker is used to containerize the application, ensuring seamless deployment across different environments. The Dockerfile in the project specifies the configuration for creating a Docker container, including necessary dependencies and settings.
 
@@ -130,6 +130,4 @@ Thank you for reviewing my work.
 *Another Machine Learning Enthusiast*
 
 
-
-### Boston House Pricing Prediction Project
 
